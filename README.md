@@ -17,9 +17,11 @@ Actualmente, las soluciones están escritas en:
 
 **JAVA:**  version 8, 11
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zZKx4f0YmjvOaUf3ZFInOdCBFBEHcR7pQg&s" alt="Pseint" width="50" heith="80">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zZKx4f0YmjvOaUf3ZFInOdCBFBEHcR7pQg&s" alt="Java" width="50" heith="80">
 
+**PYTHON:**
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNmW_1cNAY8nsWlJyE0GHNeOIBWGynGgG1s_8w39vZw&s=10" alt="Python" width="110" heith="100">
 
 --- 
 
